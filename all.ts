@@ -31,7 +31,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Пиздец! я ебал ваш редакс!</h1>
+      <h1>ну и ну! я имел ваш редакс!</h1>
       <p>Start editing to see some magic happen :)</p>
       <div>{posts.map((e) => e.title)}</div>
     </div>
